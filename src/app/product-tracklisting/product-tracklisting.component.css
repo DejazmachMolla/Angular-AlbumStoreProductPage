@@ -1,0 +1,20 @@
+button {
+    line-height: 1;
+}
+
+li {
+    display: block;
+    line-height: 30px;
+}
+
+ul {
+    list-style-type: none;
+}
+.tracklisting {
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.albumInfo {
+    
+}
